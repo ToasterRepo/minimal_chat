@@ -1,6 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:minimal_chat/components/my_textfield.dart';
+import 'package:minimal_chat/pages/chat_bubble.dart';
 import 'package:minimal_chat/services/auth/auth_service.dart';
 import 'package:minimal_chat/services/auth/chat/chat_services.dart';
 
@@ -37,6 +38,8 @@ class ChatPage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text(receiverEmail),
+        foregroundColor: Colors.grey.shade600,
+        elevation: 0,
       ),
       body: Column(
         children: [
@@ -94,29 +97,45 @@ class ChatPage extends StatelessWidget {
           crossAxisAlignment:
               isCurrentUser ? CrossAxisAlignment.end : CrossAxisAlignment.start,
           children: [
-            Text(data["message"]),
+            ChatBubble(
+              message: data["message"],
+              isCurrentUser: isCurrentUser,
+            ),
           ],
         ));
   }
 
   //build message input
   Widget _buildUserInput() {
-    return Row(
-      children: [
-        //textfield should take up most of the space
-        Expanded(
-          child: MyTextfield(
-              hintText: "Type a message",
-              obscureText: false,
-              controller: _messageController),
-        ),
+    return Padding(
+      padding: const EdgeInsets.only(bottom: 50.0),
+      child: Row(
+        children: [
+          //textfield should take up most of the space
+          Expanded(
+            child: MyTextfield(
+                hintText: "Type a message",
+                obscureText: false,
+                controller: _messageController),
+          ),
 
-        //send button
-        IconButton(
-          onPressed: sendMessage,
-          icon: const Icon(Icons.arrow_upward),
-        ),
-      ],
+          //send button
+          Container(
+            decoration: BoxDecoration(
+              color: Colors.green,
+              shape: BoxShape.circle,
+            ),
+            margin: const EdgeInsets.only(right: 25),
+            child: IconButton(
+              onPressed: sendMessage,
+              icon: const Icon(
+                Icons.arrow_upward,
+                color: Colors.white,
+              ),
+            ),
+          ),
+        ],
+      ),
     );
   }
 }
