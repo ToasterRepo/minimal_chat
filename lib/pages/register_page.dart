@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:minimal_chat/auth/auth_service.dart';
+import 'package:minimal_chat/services/auth/auth_service.dart';
 import 'package:flutter_pw_validator/flutter_pw_validator.dart';
-
 import '../components/my_button.dart';
 import '../components/my_textfield.dart';
 
