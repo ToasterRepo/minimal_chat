@@ -1,6 +1,6 @@
 # minimal_chat
 
-##🚀 What?
+## What? 🚀
 
 As the name suggests its a minimalistic looking app that focuses on chatting mainly
 
@@ -25,7 +25,7 @@ Run the app:
 
 flutter run
 
-##🤔 Why?
+## Why? 🤔
 
 This project was born out of curiosity and a strong interest in learning the Flutter framework.
 
@@ -33,7 +33,7 @@ Credit of this project goes to this youtube creator: https://www.youtube.com/wat
 
 Although there was changes within the framework itself so I still had to pull my own weights to get it up-to-date and working
 
-##🎯 Features
+## Features 🎯
 
 Message Between different users, that's it
 
@@ -47,7 +47,7 @@ Flutter
 
 Dart
 
-##🤝 Contributions
+## Contributions 🤝 
 It was merely a project to learn flutter and its quirks, you're free to grab it and mess with it, not meant for further development though.
 
 
