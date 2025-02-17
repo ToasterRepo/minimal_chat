@@ -1,6 +1,6 @@
 # minimal_chat
 
-## What it is 🚀
+## What is it 🚀
 
 As the name suggests its a minimalistic looking app that focuses on chatting mainly
 
