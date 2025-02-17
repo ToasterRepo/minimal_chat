@@ -4,7 +4,7 @@
 
 As the name suggests its a minimalistic looking app that focuses on chatting mainly
 
-##🛠 How?
+## How? 🛠
 
 Prerequisites
 
@@ -37,11 +37,11 @@ Although there was changes within the framework itself so I still had to pull my
 
 Message Between different users, that's it
 
-##🖼 Screenshots
+## Screenshots 🖼
 
 Include some screenshots or GIFs of your app in action.
 
-##🔧 Tech Stack
+## Tech Stack 🔧
 
 Flutter
 
