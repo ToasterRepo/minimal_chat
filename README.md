@@ -4,6 +4,14 @@
 
 As the name suggests its a minimalistic looking app that focuses on chatting mainly
 
+## Reason for its creation 🤔
+
+This project was born out of curiosity and a strong interest in learning Flutter's SDK.
+
+Credit of this project goes to this youtube creator: https://www.youtube.com/watch?v=5xU5WH2kEc0
+
+Although there was changes within the SDK itself so I still had to pull my own weight to get it up-to-date and working
+
 ## How to set it up 🛠
 
 Prerequisites (*optional):
@@ -29,15 +37,6 @@ flutter pub get
 Run the app:
 
 flutter run
-
-
-## Reason for its creation 🤔
-
-This project was born out of curiosity and a strong interest in learning Flutter's SDK.
-
-Credit of this project goes to this youtube creator: https://www.youtube.com/watch?v=5xU5WH2kEc0
-
-Although there was changes within the SDK itself so I still had to pull my own weight to get it up-to-date and working
 
 
 ## What it does 🎯
