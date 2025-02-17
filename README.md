@@ -58,4 +58,4 @@ Dart
 
 ## Is it a ever growing project? 🤝 
 
-It was merely a project to learn flutter and its quirks, you're free to grab it and mess with it, not meant for further development though.
+It was merely a project to learn flutter's SDK and its quirks, you're free to grab it and mess with it, not meant for further development though.
