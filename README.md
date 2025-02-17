@@ -33,11 +33,11 @@ flutter run
 
 ## Reason for its creation 🤔
 
-This project was born out of curiosity and a strong interest in learning the Flutter framework.
+This project was born out of curiosity and a strong interest in learning Flutter's SDK.
 
 Credit of this project goes to this youtube creator: https://www.youtube.com/watch?v=5xU5WH2kEc0
 
-Although there was changes within the framework itself so I still had to pull my own weights to get it up-to-date and working
+Although there was changes within the SDK itself so I still had to pull my own weight to get it up-to-date and working
 
 
 ## What it does 🎯
