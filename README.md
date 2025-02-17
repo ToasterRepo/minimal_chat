@@ -6,7 +6,9 @@ As the name suggests its a minimalistic looking app that focuses on chatting mai
 
 ## How to set it up 🛠
 
-Prerequisites: 
+Prerequisites (*optional):
+
+*Android Studio (and SDK tools installed) - Since it was developed on a android emu device it'll look at its best there 
 
 Flutter SDK installed (Installation Guide)
 
