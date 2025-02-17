@@ -15,6 +15,7 @@ Dart installed
 Clone this repository:
 
 git clone https://github.com/ToasterRepo/minimal_chat.git
+
 cd minimal_chat
 
 Install dependencies:
