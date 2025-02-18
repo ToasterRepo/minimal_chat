@@ -48,9 +48,27 @@ flutter run
 Message Between different users, that's it
 
 
-## App in action 🖼
+## App in action 📷
 
-Include some screenshots or GIFs of your app in action.
+![App Screenshot 1](assets/screenshots/1.png)
+
+![App Screenshot 2](assets/screenshots/2.png)
+
+![App Screenshot 2](assets/screenshots/3.png)
+
+![App Screenshot 2](assets/screenshots/4.png)
+
+![App Screenshot 2](assets/screenshots/5.png)
+
+![App Screenshot 2](assets/screenshots/6.png)
+
+![App Screenshot 2](assets/screenshots/7.png)
+
+![App Screenshot 2](assets/screenshots/8.png)
+
+![App Screenshot 2](assets/screenshots/9.png)
+
+![App Screenshot 2](assets/screenshots/10.png)
 
 
 ## Tech Stack 🔧
