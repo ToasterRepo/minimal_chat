@@ -22,6 +22,10 @@ Flutter SDK installed (Installation Guide)
 
 Dart installed
 
+Firebase -> https://youtu.be/5xU5WH2kEc0?si=5_ACNFgnzq4bUCav&t=922
+
+Since I credited his work, and I won't explain it any better
+
 
 Clone this repository:
 
