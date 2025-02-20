@@ -20,7 +20,10 @@ Prerequisites (*optional):
 
 Flutter SDK installed (Installation Guide)
 
+https://docs.flutter.dev/get-started/install
+
 Dart installed
+https://dart.dev/get-dart
 
 Firebase -> https://youtu.be/5xU5WH2kEc0?si=5_ACNFgnzq4bUCav&t=922
 
