@@ -19,8 +19,10 @@ Prerequisites (*optional):
 *Android Studio (and SDK tools installed) - Since it was developed on a android emu device it'll look at its best there 
 
 Flutter SDK installed (Installation Guide)
+https://docs.flutter.dev/get-started/install/windows/mobile
 
 Dart installed
+https://dart.dev/get-dart
 
 Firebase -> https://youtu.be/5xU5WH2kEc0?si=5_ACNFgnzq4bUCav&t=922
 
